@@ -28,7 +28,11 @@
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Project_JUC.md",
+=======
+                "file": "JUC——高并发.md",
+>>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
 =======
                 "file": "JUC——高并发.md",
 >>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
@@ -36,6 +40,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
 <<<<<<< HEAD
               "title": "Project_JUC"
             }
@@ -57,11 +62,16 @@
         ],
         "currentTab": 2
 =======
+=======
+>>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
               "title": "JUC——高并发"
             }
           }
         ],
         "currentTab": 1
+<<<<<<< HEAD
+>>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
+=======
 >>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
       }
     ],
@@ -120,7 +130,12 @@
     ],
     "direction": "horizontal",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "width": 300
+=======
+    "width": 300,
+    "collapsed": true
+>>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
 =======
     "width": 300,
     "collapsed": true
@@ -203,7 +218,11 @@
               "type": "outline",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Project_JUC.md",
+=======
+                "file": "JUC——高并发.md",
+>>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
 =======
                 "file": "JUC——高并发.md",
 >>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
@@ -213,7 +232,11 @@
               },
               "icon": "lucide-list",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "title": "Outline of Project_JUC"
+=======
+              "title": "Outline of JUC——高并发"
+>>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
 =======
               "title": "Outline of JUC——高并发"
 >>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
@@ -225,8 +248,12 @@
     ],
     "direction": "horizontal",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "width": 300,
     "collapsed": true
+=======
+    "width": 300
+>>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
 =======
     "width": 300
 >>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
@@ -243,6 +270,7 @@
     }
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "29d8cb0f86d0547a",
   "lastOpenFiles": [
     "Project_JUC.md",
@@ -251,10 +279,15 @@
     "JUC——高并发.md",
     "Welcome.md"
 =======
+=======
+>>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
   "active": "a5dd968289fdb966",
   "lastOpenFiles": [
     "Welcome.md",
     "JUC——高并发.md"
+<<<<<<< HEAD
+>>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
+=======
 >>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
   ]
 }
