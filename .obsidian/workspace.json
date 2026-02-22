@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/README.md",
+                "file": "deepjava/Project_Http_Basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Project_Http_Basic"
             }
           }
         ],
@@ -73,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -124,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "deepjava/JUC——高并发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Backlinks for JUC——高并发"
             }
           },
           {
@@ -142,11 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "deepjava/JUC——高并发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Outgoing links from JUC——高并发"
             }
           },
           {
@@ -161,7 +163,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
@@ -175,7 +177,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "title": "All properties"
             }
           },
           {
@@ -184,37 +186,46 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "deepjava/Project_Http_Basic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Outline of Project_Http_Basic"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "56bced4e508e2640",
   "lastOpenFiles": [
+    "deepjava/JUC——高并发.md",
+    "deepjava/Project_Http_Basic.md",
+    "Learn_Git/Git_CheatSheet.md",
+    "Learn_Git/Deep_Git.md",
+    "Learn_Git/TestGit.md",
+    "Learn_Git/Local and Remote(本地与远程).md",
+    "Learn_Debug/Debug_Cheat_Sheet.md",
     "Book/Book.md",
-    "Learn_Eng/101~110.md",
+    "Learn_Debug",
     "Book/README.md",
+    "Learn_Eng/101~110.md",
     "Book",
     "Learn_Eng/91~100.md",
     "Learn_Eng/81~90.md",
@@ -225,7 +236,6 @@
     "Learn_Eng/0~20.md",
     "Learn_Eng/200_words_table.md",
     "ALL_KonwLedge/CGL程序.md",
-    "Learn_Git/TestGit.md",
     "ALL_KonwLedge",
     "Learn_Git/TestGit_Simple.md",
     "Front/HTML和JS常用CheatSheet.md",
@@ -234,12 +244,6 @@
     "Front/FlexBox.md",
     "Front/前端专家.md",
     "Front/前端与UI设计的关系.md",
-    "Front/布局的基石 —— 盒模型.md",
-    "Learn_Simple_Use_AI/Prompt-CodeWithModule.md",
-    "deepjava/Project_JUC.md",
-    "Learn_Eng/621~630.md",
-    "Learn_Eng/611~620.md",
-    "Learn_Eng/601~610.md",
     "Read_Kilo_Editor",
     "Learn_Latex",
     "Learn_Godot/Pasted image 20260104182653.png",

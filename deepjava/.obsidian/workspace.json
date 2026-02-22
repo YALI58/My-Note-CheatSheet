@@ -1,52 +1,14 @@
 {
   "main": {
-    "id": "1a8a28d1d4d97ac4",
+    "id": "c38bfa66cdfc5519",
     "type": "split",
     "children": [
       {
-        "id": "c80ecaaa0f273e7f",
+        "id": "b69bb9f75d95a967",
         "type": "tabs",
         "children": [
           {
-            "id": "16e519778ba8d3e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "a5dd968289fdb966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "Project_JUC.md",
-=======
-                "file": "JUC——高并发.md",
->>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
-=======
-                "file": "JUC——高并发.md",
->>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "title": "Project_JUC"
-            }
-          },
-          {
-            "id": "29d8cb0f86d0547a",
+            "id": "abf368d2df96f28a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,35 +20,51 @@
               "icon": "lucide-file",
               "title": "Project_JUC_CheatSheet"
             }
-          }
-        ],
-        "currentTab": 2
-=======
-=======
->>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
-              "title": "JUC——高并发"
+          },
+          {
+            "id": "419828ef93bac9e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project_JUC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project_JUC"
+            }
+          },
+          {
+            "id": "6b28bd08951b8514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concurrency Tools速查表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Concurrency Tools速查表"
             }
           }
         ],
-        "currentTab": 1
-<<<<<<< HEAD
->>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
-=======
->>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6776c0034b94ef4f",
+    "id": "2a13df908fcf9d38",
     "type": "split",
     "children": [
       {
-        "id": "825db59f97438788",
+        "id": "a3b4a253d17454b6",
         "type": "tabs",
         "children": [
           {
-            "id": "3c8ed694957b06ef",
+            "id": "4f615e3a88fbdc02",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -99,7 +77,7 @@
             }
           },
           {
-            "id": "4905b538621ef5a1",
+            "id": "990c9ac980a03e46",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -116,7 +94,7 @@
             }
           },
           {
-            "id": "96d8c502e39cb90f",
+            "id": "4a0c803bd7b2e58d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -129,34 +107,24 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-<<<<<<< HEAD
     "width": 300
-=======
-    "width": 300,
-    "collapsed": true
->>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
-=======
-    "width": 300,
-    "collapsed": true
->>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
   },
   "right": {
-    "id": "16fb39d1383dc51d",
+    "id": "720b82cbcba04942",
     "type": "split",
     "children": [
       {
-        "id": "9366170f871b33c0",
+        "id": "d40319b6a4eec881",
         "type": "tabs",
         "children": [
           {
-            "id": "867ab05f36086bd5",
+            "id": "7617e5c7d21bd636",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JUC——高并发.md",
-                "collapseAll": false,
+                "file": "Concurrency Tools速查表.md",
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -165,25 +133,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for JUC——高并发"
+              "title": "Backlinks for Concurrency Tools速查表"
             }
           },
           {
-            "id": "9e31758d62218e00",
+            "id": "869852509a8bba7d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JUC——高并发.md",
+                "file": "Concurrency Tools速查表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from JUC——高并发"
+              "title": "Outgoing links from Concurrency Tools速查表"
             }
           },
           {
-            "id": "51d20803cdc4a8fa",
+            "id": "0235db429486a5f6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -198,7 +166,7 @@
             }
           },
           {
-            "id": "0381fa3afdd23bc3",
+            "id": "f45dd0a658ead6a4",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -212,34 +180,18 @@
             }
           },
           {
-            "id": "619980803435ad04",
+            "id": "df5995ee0761ef1f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "Project_JUC.md",
-=======
-                "file": "JUC——高并发.md",
->>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
-=======
-                "file": "JUC——高并发.md",
->>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
+                "file": "Concurrency Tools速查表.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "title": "Outline of Project_JUC"
-=======
-              "title": "Outline of JUC——高并发"
->>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
-=======
-              "title": "Outline of JUC——高并发"
->>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
+              "title": "Outline of Concurrency Tools速查表"
             }
           }
         ],
@@ -247,16 +199,8 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-<<<<<<< HEAD
     "width": 300,
     "collapsed": true
-=======
-    "width": 300
->>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
-=======
-    "width": 300
->>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,25 +213,18 @@
       "bases:Create new base": false
     }
   },
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "active": "29d8cb0f86d0547a",
+  "active": "6b28bd08951b8514",
   "lastOpenFiles": [
+    "Project_Http_Basic.md",
+    "Project_Basic.md",
     "Project_JUC.md",
     "Project_JUC_CheatSheet.md",
-    "JUC_高并发_Book.md",
+    "Concurrency Tools速查表.md",
+    "P.md",
+    "Untitled.md",
     "JUC——高并发.md",
-    "Welcome.md"
-=======
-=======
->>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
-  "active": "a5dd968289fdb966",
-  "lastOpenFiles": [
-    "Welcome.md",
-    "JUC——高并发.md"
-<<<<<<< HEAD
->>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
-=======
->>>>>>> a3a41d12d02c6e94bd004082d6a846ef1dc25903
+    "JUC_高并发_Book.md",
+    "吞吐量与线程.md",
+    "Develop a mindset of always considering performance costs(养成时刻考虑性能开销思维).md"
   ]
 }
